@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\domain\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\service\\clientevalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\clientevalidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\faturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\model\\clienteviolacaosrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\service\\modificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\service\\modificacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\appexemplosrp\\appexemplosrp\\appexemplosrp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26132A2F-B3BB-49E2-BCC8-52C5224FCC2F}|AppExemploSRP\\AppExemploSRP.csproj|solutionrelative:appexemplosrp\\appexemplosrp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaturaService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\FaturaService.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\Service\\FaturaService.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\FaturaService.cs",
+              "RelativeToolTip": "AppExemploSRP\\Service\\FaturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:40:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModificacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\ModificacaoService.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\Service\\ModificacaoService.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\ModificacaoService.cs",
+              "RelativeToolTip": "AppExemploSRP\\Service\\ModificacaoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:39:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteValidador.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\ClienteValidador.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\Service\\ClienteValidador.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Service\\ClienteValidador.cs",
+              "RelativeToolTip": "AppExemploSRP\\Service\\ClienteValidador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:39:12.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Domain\\Cliente.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\Domain\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Domain\\Cliente.cs",
+              "RelativeToolTip": "AppExemploSRP\\Domain\\Cliente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T00:32:44.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppExemploSRP",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\AppExemploSRP.csproj",
+              "RelativeDocumentMoniker": "AppExemploSRP\\AppExemploSRP.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\AppExemploSRP.csproj",
+              "RelativeToolTip": "AppExemploSRP\\AppExemploSRP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T00:32:13.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteViolacaoSRP.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\model\\ClienteViolacaoSRP.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\model\\ClienteViolacaoSRP.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\model\\ClienteViolacaoSRP.cs",
+              "RelativeToolTip": "AppExemploSRP\\model\\ClienteViolacaoSRP.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:09:06.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Program.cs",
+              "RelativeDocumentMoniker": "AppExemploSRP\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\AppExemploSRP\\AppExemploSRP\\Program.cs",
+              "RelativeToolTip": "AppExemploSRP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T23:07:24.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

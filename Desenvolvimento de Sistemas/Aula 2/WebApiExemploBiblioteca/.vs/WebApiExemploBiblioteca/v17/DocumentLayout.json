@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\entidades\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\entidades\\livros\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\entidades\\livros\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\entidades\\livros\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\entidades\\livros\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\entidades\\livros\\livrofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\entidades\\livros\\livrofisico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 2\\webapiexemplobiblioteca\\webapiexemplobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA62EFA3-4E0A-4AA2-981A-EA8CC97AD5D5}|WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj|solutionrelative:webapiexemplobiblioteca\\controllers\\livrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmprestimoController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Controllers\\EmprestimoController.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Controllers\\EmprestimoController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwBoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:48:10.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\Ebook.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Entidades\\Livros\\Ebook.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\Ebook.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Entidades\\Livros\\Ebook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:45:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Audiobook.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\Audiobook.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Entidades\\Livros\\Audiobook.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\Audiobook.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Entidades\\Livros\\Audiobook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:45:20.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LivroFisico.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\LivroFisico.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Entidades\\Livros\\LivroFisico.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livros\\LivroFisico.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Entidades\\Livros\\LivroFisico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:39:45.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livro.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Entidades\\Livro.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Entidades\\Livro.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Entidades\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T00:26:49.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LivroController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeDocumentMoniker": "WebApiExemploBiblioteca\\Controllers\\LivroController.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\Controllers\\LivroController.cs",
+              "RelativeToolTip": "WebApiExemploBiblioteca\\Controllers\\LivroController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T23:29:55.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

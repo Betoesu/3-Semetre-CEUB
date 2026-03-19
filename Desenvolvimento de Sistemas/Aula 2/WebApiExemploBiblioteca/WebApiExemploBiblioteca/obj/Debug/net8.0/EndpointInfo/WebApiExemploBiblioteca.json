@@ -1,0 +1,501 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "WebApiExemploBiblioteca",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Emprestimo/MostrarDadoEmprestimo": {
+      "get": {
+        "tags": [
+          "Emprestimo"
+        ],
+        "parameters": [
+          {
+            "name": "idEmprestimo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idCliente",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "dataEmprestimo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "dataEntrega",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "entregue",
+            "in": "query",
+            "schema": {
+              "type": "boolean"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Emprestimo/RealizarEmprestimo": {
+      "get": {
+        "tags": [
+          "Emprestimo"
+        ],
+        "parameters": [
+          {
+            "name": "idEmprestimo",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "idCliente",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "dataEmprestimo",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "tipoLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Livro/MostrarLivro": {
+      "get": {
+        "tags": [
+          "Livro"
+        ],
+        "parameters": [
+          {
+            "name": "idLivro",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "tituloLivro",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Livro/MostrarLivroFisicoJSON": {
+      "post": {
+        "tags": [
+          "Livro"
+        ],
+        "parameters": [
+          {
+            "name": "idLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "tituloLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "autorLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "editoraLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "dataPublicacaoLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "corredorLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Livro/MostrarAudioBookJSON": {
+      "post": {
+        "tags": [
+          "Livro"
+        ],
+        "parameters": [
+          {
+            "name": "idLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "tituloLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "autorLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "editoraLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "dataPublicacaoLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "narradorLivro",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "duracaoMinutos",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Livro/MostrarEbookJSON": {
+      "post": {
+        "tags": [
+          "Livro"
+        ],
+        "parameters": [
+          {
+            "name": "idLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "tituloLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "autorLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "editoraLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "dataPublicacaoLivroUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string",
+              "format": "date-time"
+            }
+          },
+          {
+            "name": "urlDownload",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Usuario/MostrarUsuario": {
+      "get": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "idUsuario",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "nomeUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "cpfUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "enderecoUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "cidadeUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "telefoneCelularUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/Usuario/MostrarUsuarioJSON": {
+      "get": {
+        "tags": [
+          "Usuario"
+        ],
+        "parameters": [
+          {
+            "name": "idUsuario",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "nomeUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "cpfUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "enderecoUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "cidadeUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "telefoneCelularUsuario",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

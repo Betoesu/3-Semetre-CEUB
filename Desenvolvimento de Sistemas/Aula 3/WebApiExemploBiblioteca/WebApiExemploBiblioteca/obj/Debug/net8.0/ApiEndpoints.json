@@ -1,0 +1,191 @@
+[
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
+    "Method": "MostrarEmprestimo",
+    "RelativePath": "MostrarEmprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmprestimo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEmprestimo",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEntrega",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "entregue",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
+    "Method": "MostrarLivroFisico",
+    "RelativePath": "MostrarLivroFisico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tituloLivro",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "autorLivro",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "editoraLivro",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataPublicacaoLivro",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.UsuarioController",
+    "Method": "MostrarUsuario",
+    "RelativePath": "Usuario/MostrarUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cpfUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enderecoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cidadeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefoneCelularUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.UsuarioController",
+    "Method": "MostrarUsuarioJSON",
+    "RelativePath": "Usuario/MostrarUsuarioJSON",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cpfUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enderecoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cidadeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefoneCelularUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

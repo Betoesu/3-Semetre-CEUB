@@ -1,0 +1,340 @@
+[
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
+    "Method": "MostrarDadoEmprestimo",
+    "RelativePath": "Emprestimo/MostrarDadoEmprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmprestimo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEmprestimo",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEntrega",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "entregue",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.EmprestimoController",
+    "Method": "RealizarEmprestimo",
+    "RelativePath": "Emprestimo/RealizarEmprestimo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEmprestimo",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataEmprestimo",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "tipoLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
+    "Method": "MostrarAudioBookJSON",
+    "RelativePath": "Livro/MostrarAudioBookJSON",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLivroUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tituloLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "autorLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "editoraLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataPublicacaoLivroUsuario",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "narradorLivro",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "duracaoMinutos",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
+    "Method": "MostrarEbookJSON",
+    "RelativePath": "Livro/MostrarEbookJSON",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLivroUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tituloLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "autorLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "editoraLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataPublicacaoLivroUsuario",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "urlDownload",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
+    "Method": "MostrarLivro",
+    "RelativePath": "Livro/MostrarLivro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLivro",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tituloLivro",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.LivroController",
+    "Method": "MostrarLivroFisicoJSON",
+    "RelativePath": "Livro/MostrarLivroFisicoJSON",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idLivroUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "tituloLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "autorLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "editoraLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataPublicacaoLivroUsuario",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "corredorLivroUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.UsuarioController",
+    "Method": "MostrarUsuario",
+    "RelativePath": "Usuario/MostrarUsuario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cpfUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enderecoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cidadeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefoneCelularUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebApiExemploBiblioteca.Controllers.UsuarioController",
+    "Method": "MostrarUsuarioJSON",
+    "RelativePath": "Usuario/MostrarUsuarioJSON",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUsuario",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "nomeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cpfUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "enderecoUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "cidadeUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "telefoneCelularUsuario",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
