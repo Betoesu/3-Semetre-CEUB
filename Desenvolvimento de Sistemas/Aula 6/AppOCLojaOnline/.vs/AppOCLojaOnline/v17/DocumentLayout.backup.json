@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\model\\calcularpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\model\\calcularpagamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\model\\idesconto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\model\\descontosazonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\model\\descontosazonal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\model\\descontocupom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appoclojaonline\\appoclojaonline\\model\\descontoquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A24D52-4EC3-402D-A2C4-1743C91D2E88}|AppOCLojaOnline\\AppOCLojaOnline.csproj|solutionrelative:appoclojaonline\\model\\descontoquantidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularPagamento.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\CalcularPagamento.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Model\\CalcularPagamento.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\CalcularPagamento.cs",
+              "RelativeToolTip": "AppOCLojaOnline\\Model\\CalcularPagamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:31:37.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DescontoSazonal.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoSazonal.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Model\\DescontoSazonal.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoSazonal.cs",
+              "RelativeToolTip": "AppOCLojaOnline\\Model\\DescontoSazonal.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:30:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DescontoQuantidade.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoQuantidade.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Model\\DescontoQuantidade.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoQuantidade.cs",
+              "RelativeToolTip": "AppOCLojaOnline\\Model\\DescontoQuantidade.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:29:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DescontoCupom.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoCupom.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Model\\DescontoCupom.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\DescontoCupom.cs",
+              "RelativeToolTip": "AppOCLojaOnline\\Model\\DescontoCupom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:27:00.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDesconto.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\IDesconto.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Model\\IDesconto.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Model\\IDesconto.cs",
+              "RelativeToolTip": "AppOCLojaOnline\\Model\\IDesconto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:25:30.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Program.cs",
+              "RelativeDocumentMoniker": "AppOCLojaOnline\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppOCLojaOnline\\AppOCLojaOnline\\Program.cs*",
+              "RelativeToolTip": "AppOCLojaOnline\\Program.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:24:04.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

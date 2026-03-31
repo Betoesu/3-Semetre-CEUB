@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BrR0rSHqLG8=",
+  "dgSpecHash": "g5UkekYBbSU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
+  "projectFilePath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\pedro\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

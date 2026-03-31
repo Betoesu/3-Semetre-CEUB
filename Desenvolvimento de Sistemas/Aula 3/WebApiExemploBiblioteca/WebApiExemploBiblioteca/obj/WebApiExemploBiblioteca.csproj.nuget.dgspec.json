@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj": {}
+    "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj": {
+    "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
         "projectName": "WebApiExemploBiblioteca",
-        "projectPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
+        "projectPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca.csproj",
         "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 2\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\obj\\",
+        "outputPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 3\\WebApiExemploBiblioteca\\WebApiExemploBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
