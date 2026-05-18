@@ -1,0 +1,33 @@
+﻿using BibliotecaApi.Models;
+using WebApiBiblioteca.Services.Interfaces;
+
+namespace WebApiBiblioteca.Services
+{
+    public class LivroService : ILivroService
+    {
+        public Task<bool> AtualizarAsync(Livro livro)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<bool> ExcluirAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Cliente> InserirAsync(Livro livro)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<Cliente> ObterPorIdAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerable<Livro>> ObterTodosAsync()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

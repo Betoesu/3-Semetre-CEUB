@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 9\\webapibiblioteca\\webapibiblioteca\\webapibiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\webapibiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 9\\webapibiblioteca\\webapibiblioteca\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\data\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 9\\webapibiblioteca\\webapibiblioteca\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\model\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 9\\webapibiblioteca\\webapibiblioteca\\model\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\model\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 9\\webapibiblioteca\\webapibiblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99A52413-50A0-461C-8A41-2FF299305221}|WebApiBiblioteca\\WebApiBiblioteca.csproj|solutionrelative:webapibiblioteca\\model\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiBiblioteca",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "RelativeToolTip": "WebApiBiblioteca\\WebApiBiblioteca.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T00:47:00.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SqlServerContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Data\\Context\\SqlServerContext.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Data\\Context\\SqlServerContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Data\\Context\\SqlServerContext.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Data\\Context\\SqlServerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:40:11.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Model\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Emprestimo.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Model\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:24:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Autor.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Model\\Autor.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Autor.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Model\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:24:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Livro.cs",
+              "RelativeDocumentMoniker": "WebApiBiblioteca\\Model\\Livro.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 9\\WebApiBiblioteca\\WebApiBiblioteca\\Model\\Livro.cs",
+              "RelativeToolTip": "WebApiBiblioteca\\Model\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T00:24:15.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

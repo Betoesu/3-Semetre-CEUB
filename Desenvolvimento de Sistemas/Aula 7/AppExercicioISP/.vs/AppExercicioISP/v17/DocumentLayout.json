@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\model\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\model\\arcondicionado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\model\\televisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\model\\televisao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\model\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\model\\lampada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\interface\\icontrolavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\interface\\icontrolavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\interface\\idispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\interface\\idispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\interface\\isintonizavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\interface\\isintonizavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\interface\\itermostatizavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\interface\\itermostatizavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 7\\appexercicioisp\\appexercicioisp\\appexercicioisp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34ADAFAC-E89E-42C7-8666-4EA25A4D0584}|AppExercicioISP\\AppExercicioISP.csproj|solutionrelative:appexercicioisp\\appexercicioisp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArCondicionado.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\ArCondicionado.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Model\\ArCondicionado.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\ArCondicionado.cs",
+              "RelativeToolTip": "AppExercicioISP\\Model\\ArCondicionado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:35:40.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Televisao.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\Televisao.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Model\\Televisao.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\Televisao.cs",
+              "RelativeToolTip": "AppExercicioISP\\Model\\Televisao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:35:23.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lampada.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\Lampada.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Model\\Lampada.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Model\\Lampada.cs",
+              "RelativeToolTip": "AppExercicioISP\\Model\\Lampada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:35:12.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISintonizavel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\ISintonizavel.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Interface\\ISintonizavel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\ISintonizavel.cs",
+              "RelativeToolTip": "AppExercicioISP\\Interface\\ISintonizavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:34:38.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITermostatizavel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\ITermostatizavel.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Interface\\ITermostatizavel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\ITermostatizavel.cs",
+              "RelativeToolTip": "AppExercicioISP\\Interface\\ITermostatizavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:34:19.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IControlavel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\IControlavel.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Interface\\IControlavel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\IControlavel.cs",
+              "RelativeToolTip": "AppExercicioISP\\Interface\\IControlavel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:34:04.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Program.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Program.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Program.cs",
+              "RelativeToolTip": "AppExercicioISP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:31:28.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\IDispositivo.cs",
+              "RelativeDocumentMoniker": "AppExercicioISP\\Interface\\IDispositivo.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\Interface\\IDispositivo.cs",
+              "RelativeToolTip": "AppExercicioISP\\Interface\\IDispositivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T00:33:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppExercicioISP",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\AppExercicioISP.csproj",
+              "RelativeDocumentMoniker": "AppExercicioISP\\AppExercicioISP.csproj",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 7\\AppExercicioISP\\AppExercicioISP\\AppExercicioISP.csproj",
+              "RelativeToolTip": "AppExercicioISP\\AppExercicioISP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-07T00:31:38.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

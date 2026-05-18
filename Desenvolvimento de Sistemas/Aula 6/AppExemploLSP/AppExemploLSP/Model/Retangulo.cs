@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace AppExemploLSP.Model
 {
-    internal class Retangulo
+    public class Retangulo : Paralelogramo
     {
+        public Retangulo(double altura, double largura) : base(altura, largura)
+        {
+        }
     }
 }

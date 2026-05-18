@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appexemplolsp\\appexemplolsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|solutionrelative:appexemplolsp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appexemplolsp\\appexemplolsp\\model\\calculararea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|solutionrelative:appexemplolsp\\model\\calculararea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appexemplolsp\\appexemplolsp\\model\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|solutionrelative:appexemplolsp\\model\\paralelogramo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appexemplolsp\\appexemplolsp\\model\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|solutionrelative:appexemplolsp\\model\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|c:\\users\\pedro\\trabalho\\3-semestre-ceub\\desenvolvimento de sistemas\\aula 6\\appexemplolsp\\appexemplolsp\\model\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3152DC9B-E9DA-4059-A4F0-F05147CD8D07}|AppExemploLSP\\AppExemploLSP.csproj|solutionrelative:appexemplolsp\\model\\quadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +30,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularArea.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\CalcularArea.cs",
+              "RelativeDocumentMoniker": "AppExemploLSP\\Model\\CalcularArea.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\CalcularArea.cs",
+              "RelativeToolTip": "AppExemploLSP\\Model\\CalcularArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:51:30.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Paralelogramo.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Paralelogramo.cs",
+              "RelativeDocumentMoniker": "AppExemploLSP\\Model\\Paralelogramo.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Paralelogramo.cs",
+              "RelativeToolTip": "AppExemploLSP\\Model\\Paralelogramo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:42:21.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Retangulo.cs",
+              "RelativeDocumentMoniker": "AppExemploLSP\\Model\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Retangulo.cs",
+              "RelativeToolTip": "AppExemploLSP\\Model\\Retangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:40:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Quadrado.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Quadrado.cs",
+              "RelativeDocumentMoniker": "AppExemploLSP\\Model\\Quadrado.cs",
+              "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Model\\Quadrado.cs",
+              "RelativeToolTip": "AppExemploLSP\\Model\\Quadrado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T00:39:50.031Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +96,7 @@
               "RelativeDocumentMoniker": "AppExemploLSP\\Program.cs",
               "ToolTip": "C:\\Users\\pedro\\Trabalho\\3-Semestre-CEUB\\Desenvolvimento de Sistemas\\Aula 6\\AppExemploLSP\\AppExemploLSP\\Program.cs",
               "RelativeToolTip": "AppExemploLSP\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-31T00:39:17.708Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppExemploLSP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b988891e224a8351bef339e81d2a1adc64e6b779")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06050d2e3ab4ea209e3ae9dbd718f26f378d0f5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppExemploLSP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppExemploLSP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
